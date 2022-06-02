@@ -17,3 +17,4 @@ Instalacja wymaganych bibliotek:
 
 `pip install -r requirements.txt`
 
+W pliku requirements.txt wskazano wersję CUDA111 - należy odpowiednio zmienić w przypadku używania frameworku innej wersji.
