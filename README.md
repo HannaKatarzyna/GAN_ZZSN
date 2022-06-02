@@ -7,11 +7,11 @@ Tworzenie środowiska za pomocą komendy:
 
 Aktywacja środowiska wirtualnego:
 
-(Windows)
-`.\.venv\Scripts\activate.bat`
+`.\.venv\Scripts\activate.bat`(Windows)
 
-(Linux)
-`source .venv/bin/activate`
+lub
+
+`source .venv/bin/activate`(Linux)
 
 Instalacja wymaganych bibliotek:
 
